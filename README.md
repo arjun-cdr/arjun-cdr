@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arjunaditya Das</h1>
-<h3 align="center">A passionate CS undergrad student.</h3>
+<h3 align="center">CS Grad exploring Dynamics of Tech.</h3>
 
-- 🌱 I’m currently learning **SQL, DATA SCIENCE, WEB-DEV**
+- 🌱 I’m currently learning **Blockchain Tech, DNA Storing...**
 
-- 💬 Ask me about **python, c, c++**
-
-- 📫 How to reach me **adityaarjun434@gmail.com**
+- 📫 How to reach me **dasarjunaditya@gmail.com**
 
 - ⚡ Fun fact **I have a good humour too**
 
