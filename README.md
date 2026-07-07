@@ -2,8 +2,6 @@
 <h3 align="center">MCA Student | Python & Blockchain Developer
 Building blockchain systems from scratch, Web3 applications, and applied cryptography.</h3>
 
-- 🌱 I’m currently learning **Blockchain Tech, DNA Storing...**
-
 - 📫 How to reach me **dasarjunaditya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
