@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arjunaditya Das</h1>
+<h1 align="center">Hi 👋 I'm Arjunaditya Das</h1>
 <h3 align="center">MCA Student | Currently building blockchain systems from scratch with Python, Web3, and applied cryptography.</h3>
 
 - 📫 How to reach me **dasarjunaditya@gmail.com**
